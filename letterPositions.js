@@ -10,4 +10,4 @@ const letterPositions=(sentence)=>{
  }
  return results;
 }
-console.log(letterPositions('lighthouselab'))
+console.log(letterPositions('lighthouse lab'))
